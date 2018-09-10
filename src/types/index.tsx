@@ -1,5 +1,5 @@
 
-export class StoreState {
+export class appState {
     posts: Array<any> = [];
     post: object;
     comments: object;
