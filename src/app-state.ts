@@ -1,5 +1,5 @@
 import { appState } from "./types/index";
 
-export interface AppState {
+export interface StoreState {
     state: appState[];
 }
